@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: University of Canterbury, Christchurch, New Zealand
-      year: 2021
+      year: 2017 - 2021
       description:
         - Description 1.
         - Description 2.
@@ -23,7 +23,7 @@
             - Sub-description 2.
     - title: Biochemistry diploma
       institution: Pontificia Universidad Católica de Chile, Santiago, Chile
-      year: 2014
+      year: 2009-2014
       description:
         - Description 1.
         - Description 2.
@@ -45,15 +45,6 @@
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
