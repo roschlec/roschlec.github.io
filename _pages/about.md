@@ -9,6 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   address: >
+    <p>I'm at</p>
     <p>Institute of Microbiology</p>
     <p>Königin-Luise-Str. 12-16</p>
     <p>Berlin, Germany</p>
