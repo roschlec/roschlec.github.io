@@ -307,7 +307,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 3rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -450,7 +450,7 @@ footer.sticky-bottom {
 
     .post-tags {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      font-size: 0.5rem;
       padding-top: 0.25rem;
       padding-bottom: 0;
     }
@@ -580,8 +580,9 @@ footer.sticky-bottom {
 
   ol.bibliography {
     list-style: none;
-    padding: 0;
+    padding: 1;
     margin-top: 0;
+    width: 120%;
 
     li {
       margin-bottom: 1rem;
@@ -681,7 +682,7 @@ footer.sticky-bottom {
       }
 
       .hidden {
-        font-size: 0.875rem;
+        font-size: 0.5rem;
         max-height: 0px;
         overflow: hidden;
         text-align: justify;
@@ -770,7 +771,7 @@ html.transition *:after {
 
   .post-tags {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 0.5rem;
     padding-top: 0.25rem;
     padding-bottom: 1rem;
 

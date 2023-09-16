@@ -22,10 +22,8 @@
       "url": "https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/mikrobiologie/ag_remus-emsermann/index.html",
       "startDate": "2021",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Phyllosphere Microbiology"
-      ]
+      "summary": "Phyllosphere Microbiology",
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -57,15 +55,15 @@
   "skills": [
     {
       "name": "Molecular Biology",
-      "keywords": ""
+      "keywords": "Cloning"
     },
     {
       "name": "Microscopy",
-      "keywords": ""
+      "keywords": "Fluorescence, Confocal, Image analysis"
     },
     {
       "name": "Programming",
-      "keywords": "R, Python"
+      "keywords": "R, Python, LaTeX, slurm, bash"
     }
   ],
   "languages": [
