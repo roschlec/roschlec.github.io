@@ -2,6 +2,7 @@ github_users:
   - roschlec
 
 github_repos:
-  - roschlec/paper_cusper_competition
   - roschlec/schlechter_spatial_xxxxx_2023
   - roschlec/geneOntology
+  - roschlec/paper_cusper_competition
+  - roschlec/gitbook_protocols
