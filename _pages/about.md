@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  address: >
+  address:
     <p>You can find me at the</p>
     <p><b>Institute of Microbiology</b></p>
     <p><b>Freie Universität Berlin</b></p>
