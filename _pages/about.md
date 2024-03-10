@@ -21,6 +21,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>I am Rudolf, a postdoc at Freie Universität Berlin. My interests hover around microbial ecology, data science and research. I am passionate about the ways microbe associate with plants to establish communities. My research interest focuses on bacterial traits that influence community assembly and ecosystem processes. I like to work at the interface of molecular biology, genetics and ecology with the support of reproducible, statistical and data driven evidence.</p>
+<p>I am a postdoc at Freie Universität Berlin. My interests hover around microbial ecology, data science and research. I am passionate about the ways microbe associate with plants to establish communities. My research interest focuses on bacterial traits that influence community assembly and ecosystem processes. I like to work at the interface of molecular biology, genetics and ecology with the support of reproducible, statistical and data driven evidence.</p>
 
 <p> If you are interested in some lab protocols, check this <a href='https://roschlec.gitbook.io/protocols/'>[Gitbook]</a> (under construction)</p>
