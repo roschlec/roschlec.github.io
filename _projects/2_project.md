@@ -9,7 +9,7 @@ scholar:
   bibliography_template: {{reference}}
 ---
 
-## Bacterial genetic modification
+### **bacterial genetic modification**
 Genetic manipulation of non-model bacteria represents a frontier in microbiology, going beyond the well-studied organisms like *Escherichia coli* and *Bacillus subtilis*. These non-model bacteria, which include a diverse array of species with unique metabolic capabilities, ecological roles, and potential biotechnological applications, have historically been challenging to study due to their complex genetic systems and often recalcitrant nature to traditional genetic tools. 
 
 I'm working towards this goal by using molecular biology, bioinformatics, and synthetic biology tools to enable precise genetic modifications of plant-associated bacteria. By tailoring genetic tools to the specific needs of these non-model organisms, we can explore the behaviour of microbes in their environment and harness their capabilities for innovative solutions to global challenges.
@@ -18,7 +18,7 @@ I've developed a wide array of tools to tag bacteria with several fluorescent pr
 
 Ultimately, my focus extends to the development of a CRISPR-based system tailored for generating bacterial knockouts in representative members of the *Arabidopsis* microbiota.
 
-### Techniques
+#### **techniques**
 - Molecular Cloning
     - Blunt-end and sticky-end cloning
     - Gibson assembly
@@ -29,6 +29,6 @@ Ultimately, my focus extends to the development of a CRISPR-based system tailore
     - Conjugation
 - Fluorescence Microscopy
 
-### Related publications
+#### **related publications**
 
 {% bibliography -q @*[project2=true]* %}
