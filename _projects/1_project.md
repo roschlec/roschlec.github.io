@@ -2,7 +2,7 @@
 layout: page
 title: leaf microbiology
 description: 
-img: assets/img/12.jpg
+img: assets/img/leaf_bac.png
 importance: 1
 category: work
 scholar:

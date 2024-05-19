@@ -2,7 +2,7 @@
 layout: page
 title: grapevine biology
 description: 
-img: assets/img/img_grape.jpg
+img: assets/img/img_grape.png
 importance: 3
 category: work
 scholar:

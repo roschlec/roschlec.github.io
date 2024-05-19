@@ -2,7 +2,7 @@
 layout: page
 title: genetic modification
 description: 
-img: assets/img/3.jpg
+img: assets/img/chip.png
 importance: 2
 category: work
 scholar:
