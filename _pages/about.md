@@ -25,8 +25,4 @@ social: true  # includes social icons at the bottom of the page
 
 <p>I have worked in different research projects related to plant-pathogen interactions in grapes and <i>Arabidopsis thaliana</i>, spatial analysis of bacterial communities on the leaf surface, and generally working at the interface of microbiology, genomics, molecular biology and genetics, synthetic biology, and ecology.</p>
 
-<<<<<<< HEAD
 <p>I'm a self-taught coder and passionate about using programming tools for data visualisation, reproducible and open data analysis.</p>
-=======
-<p>I'm a self-taught coder and passionate about using programming tools for data visualisation, and reproducible and open data analysis.</p>
->>>>>>> a3a2b87e9112a8c616353d4bbdc0520564765a7f
