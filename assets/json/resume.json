@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Rudolf Schlechter",
+    "label": "Microbiologist, Microbial Ecologist, Data Scientist",
+    "image": "",
+    "email": "r.schlechter.jahn@fu-berlin.de",
+    "phone": "+49 308 3870891",
+    "url": "https://roschlec.github.io",
+    "summary": "Microbiologist interested in traits influencing microbial communities and their associations with plants",
+    "location": {
+      "address": "Königin-Luise-Str. 12-16",
+      "postalCode": "14195",
+      "city": "berlin",
+      "countryCode": "DE",
+      "region": ""
+    }
+  },
+  "work": [
+    {
+      "name": "Institute of Microbiology, Freie Universität Berlin",
+      "position": "Postdoc",
+      "url": "https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/mikrobiologie/ag_remus-emsermann/index.html",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Phyllosphere Microbiology",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Canterbury, Christchurch, New Zealand",
+      "url": "",
+      "area": "Microbiology",
+      "studyType": "PhD",
+      "startDate": "2017",
+      "endDate": "2021",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Pontificia Universidad Católica de Chile, Santiago, Chile",
+      "url": "",
+      "area": "Biochemistry",
+      "studyType": "Biochemistry Diploma (Título Profesional)",
+      "startDate": "2009",
+      "endDate": "2014",
+      "score": "",
+      "courses": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Molecular Biology",
+      "keywords": "Cloning"
+    },
+    {
+      "name": "Microscopy",
+      "keywords": "Fluorescence, Confocal, Image analysis"
+    },
+    {
+      "name": "Programming",
+      "keywords": "R, Python, LaTeX, slurm, bash"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
