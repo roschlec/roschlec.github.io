@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>I'm a microbial ecologist based in Berlin. My research focuses on the ways microbes associate with each other and with plants. I'm currently interested in bacterial trait diversity and how it influences community assembly and ecosystem processes.</p>
+<p>I'm a microbial ecologist based in Berlin. My research focuses on the ways microbes associate with each other and with plants. I'm currently interested in bacterial diversity and how it influences community assembly and ecosystem processes.</p>
 
 <p>I have worked in different research projects related to plant-pathogen interactions in grapes and <i>Arabidopsis thaliana</i>, spatial analysis of bacterial communities on the leaf surface, and generally working at the interface of microbiology, genomics, molecular biology and genetics, synthetic biology, and ecology.</p>
 
