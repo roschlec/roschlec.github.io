@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New paper accepted in Environmental Microbiology!
-date: 2025-01-10
+title: Exciting News!
+date: 2025-03-11
 inline: false
 related_posts: false
 scholar:
