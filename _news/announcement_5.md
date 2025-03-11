@@ -12,4 +12,4 @@ I'm thrilled to share that my project, "Single-cell transcriptional profiling of
 
 This support will help push forward our understanding of bacterial interactions on plant leaves at the single-cell level in collaboration with Dr. Alexandra Noble at Oxford University. Excited for the next steps!
 
-Stay tuned for updates!
+Stay tuned for updates!!
